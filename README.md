@@ -7,12 +7,19 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-<img 
+<video 
   align="right" 
-  alt="Coding" 
   width="320" 
-  src="https://github.com/user-attachments/assets/2b8f88bf-214d-4f88-9085-45ef311db589" 
-/>
+  autoplay 
+  loop 
+  muted 
+  playsinline
+>
+  <source 
+    src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/game-developer-animation-gif-download-5087458.mp4" 
+    type="video/mp4"
+  />
+</video>
 
 - 🌱 I'm currently learning Game Development using Unity 
 - 👯 I'm looking to collaborate on game development projects, open-source, and creative ideas  
