@@ -50,23 +50,18 @@
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> GitHub Stats & Top Languages
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Nourabozeid666&show_icons=true&title_color=8B5CF6&icon_color=A78BFA&text_color=ffffff&bg_color=0d1117&border_color=8B5CF6&hide_border=true&include_all_commits=true&count_private=true" alt="Nour's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nourabozeid666&layout=compact&title_color=8B5CF6&text_color=ffffff&bg_color=0d1117&border_color=8B5CF6&hide_border=true&langs_count=8" alt="Nour's Top Languages" />
-      </td>
-    </tr>
-  </table>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nourabozeid666&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=cccccc&border=8B5CF6&hide_border=true" alt="GitHub Streak"/>
-</div>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Projects
 
