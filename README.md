@@ -14,9 +14,8 @@
   src="https://cdn.dribbble.com/userupload/42123479/file/original-e71801a76a33768d4ed19f1f5a2df61d.gif" 
 />
 
-- 🌱 I'm currently learning Game Development using Unity 
+- 🌱 I'm currently learning 3D Game Development using Unity 
 - 👯 I'm looking to collaborate on game development projects, open-source, and creative ideas  
-- 💬 Ask me about C#, Game Design, blender basics, and Problem Solving  
 - 🎮 I enjoy building adventurous games and i love story games, polished mini-games and joining game jams
 
 <br clear="both"/>
@@ -27,8 +26,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)]()  
-[![Email](https://img.shields.io/badge/Email-Contact%20me-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:www.nour.com2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nour-aboziad-806207321/)
+
+[![Email](https://img.shields.io/badge/Email-Contact%20me-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:NourAboziad12@outlook.com)
 
 </div>
 
