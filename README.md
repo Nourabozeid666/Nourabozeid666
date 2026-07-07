@@ -7,7 +7,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-<img align="right" alt="Coding" width="320" src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnlvdHNtM2xvMGRjbTI1enl1YWY4bmlkZTA0OHZ5NWZ4Z2toZ2l4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiI6H8yQsyIoNwVedmXU6CODLg1KWaTY070AEl22C2DQ&s=10)">
+<img align="right" alt="Coding" width="320" src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnlvdHNtM2xvMGRjbTI1enl1YWY4bmlkZTA0OHZ5NWZ4Z2toZ2l4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiI6H8yQsyIoNwVedmXU6CODLg1KWaTY070AEl22C2DQ&s=10)](https://iconscout.com/lottie-animation/programmer-developing-video-game-and-reaching-objectives-animation_12083298)">
 
 - 🌱 I'm currently learning Game Development using Unity 
 - 👯 I'm looking to collaborate on game development projects, open-source, and creative ideas  
